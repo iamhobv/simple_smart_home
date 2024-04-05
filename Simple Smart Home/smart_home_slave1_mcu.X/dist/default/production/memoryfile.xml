@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\smart_home_slave1_mcu.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>65536</length>
+      <used>1894</used>
+      <free>63642</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3936</length>
+      <used>83</used>
+      <free>3853</free>
+    </memory>
+  </executable>
+</project>
